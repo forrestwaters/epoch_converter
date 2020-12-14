@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: epoch_converter
+  annotations:
+    github.com/project-slug: forrestwaters/epoch_converter
+spec:
+  type: other
+  lifecycle: unknown
